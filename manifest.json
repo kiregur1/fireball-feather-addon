@@ -42,7 +42,7 @@
 			"type": "script",
 			"language": "javascript",
 			"uuid": "5d541731-5a8b-4c7d-95a6-aca7b479b988",
-			"entry": "scripts/main.js",
+			"entry": "script.js",
 			"version": [
 				1,
 				0,
